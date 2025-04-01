@@ -1,0 +1,14 @@
+[
+  "Utilisateur : resoudre l'equation 2x+6=12",
+  "Assistant : Pour r\u00e9soudre l'\u00e9quation 2x + 6 = 12, suivons ces \u00e9tapes :\n\n1. **Soustraire 6 des deux c\u00f4t\u00e9s** pour isoler le terme avec x :\n   2x + 6 - 6 = 12 - 6\n   2x = 6\n\n2. **Diviser les deux c\u00f4t\u00e9s par 2** pour r\u00e9soudre x :\n   2x / 2 = 6 / 2\n   x = 3\n\nLa solution de l'\u00e9quation est donc **x = 3**.",
+  "Utilisateur : c'est quoi mon nom?",
+  "Assistant : Votre pr\u00e9nom est Khalid. Puis-je vous aider avec autre chose ?",
+  "Utilisateur : c'est quoi mon nom?",
+  "Assistant : Votre pr\u00e9nom est Khalid. Si vous faites r\u00e9f\u00e9rence \u00e0 un nom de famille ou \u00e0 un autre nom, je n'ai pas cette information, car vous ne me l'avez pas encore partag\u00e9e. Pourriez-vous me le pr\u00e9ciser, si vous le souhaitez ?",
+  "Utilisateur : c'est quoi mon prenom",
+  "Assistant : Votre pr\u00e9nom est Khalid. Puis-je vous aider avec autre chose ?",
+  "Utilisateur : c'est quoi mon nom",
+  "Assistant : Comme je l'ai mentionn\u00e9 pr\u00e9c\u00e9demment, votre pr\u00e9nom est Khalid. Cependant, je n'ai pas d'information concernant votre nom de famille, car vous ne me l'avez pas encore partag\u00e9. Si vous souhaitez me communiquer votre nom de famille, n'h\u00e9sitez pas \u00e0 me le dire, et je pourrai vous r\u00e9pondre en cons\u00e9quence.\n\nSi vous faites r\u00e9f\u00e9rence uniquement \u00e0 votre pr\u00e9nom, alors la r\u00e9ponse est : votre pr\u00e9nom est Khalid.\n\nSi vous souhaitez me donner votre nom de famille, je serai ravi de vous r\u00e9pondre en cons\u00e9quence. Sinon, puis-je vous aider avec autre chose ?",
+  "Utilisateur : l'eequation qu'on a resolu avant",
+  "Assistant : L'\u00e9quation que nous avons r\u00e9solue pr\u00e9c\u00e9demment est :\n\n**2x + 6 = 12**\n\nEt la solution que nous avons trouv\u00e9e est :\n\n**x = 3**\n\nSi vous avez d'autres \u00e9quations \u00e0 r\u00e9soudre ou des questions suppl\u00e9mentaires, n'h\u00e9sitez pas \u00e0 me les poser !"
+]
